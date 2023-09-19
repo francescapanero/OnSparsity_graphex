@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  On sparsity, power-law and clustering properties of
+  graphex processes
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: François
+    family-names: Caron
+    email: caron@stats.ox.ac.uk
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-3952-224X'
+  - given-names: Francesca
+    family-names: Panero
+    email: f.panero@lse.ac.uk
+    affiliation: London School of Economics and Political Science
+    orcid: 'https://orcid.org/0000-0002-8287-163X'
+identifiers:
+  - type: doi
+    value: 10.1017/apr.2022.75
+    description: >-
+      On sparsity, power-law, and clustering properties of
+      graphex processes.
+repository-code: 'https://github.com/francescapanero/OnSparsity_graphex'
+version: '1.0'
+date-released: '2023-09-19'
